@@ -1,4 +1,4 @@
-(https://dev.azure.com/RoopsLand/AzurePipelineDemo/apis/build/status/yrk1436.pipelines-java?branchName=master)]
+[![Build Status](https://dev.azure.com/RoopsLand/AzurePipelineDemo/_apis/build/status/yrk1436.pipelines-java?branchName=master)](https://dev.azure.com/RoopsLand/AzurePipelineDemo/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
